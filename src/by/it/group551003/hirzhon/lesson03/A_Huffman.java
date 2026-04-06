@@ -166,6 +166,6 @@ public class A_Huffman {
             //и можно запомнить его в индексе для поиска кода по символу.
             codes.put(this.symbol, code);
         }
-    }
 
+    }
 }
